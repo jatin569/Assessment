@@ -1,0 +1,16 @@
+Question No-3 
+
+One-Line Answers (Answers to be written on .txt file)-
+A. What is reverse-i-search in a Linux terminal?
+B. How do you list out the hidden directories using Linux command line tool?
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+
+Answers-
+
+A. Reverse-i-search is a feature of the GNU Bash command-line interpreter that allows the user to search through their previously typed commands.
+B. Hidden directories can be listed using the “ls -al” command.
+C. I am comfortable with using Linux-based OS such as Ubuntu.
+D. No
